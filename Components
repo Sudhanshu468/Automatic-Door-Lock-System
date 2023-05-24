@@ -1,0 +1,9 @@
+Arduino UNO: It is a microcontroller board based on the ATmega328P. It acts as the brain of the system, controlling the operations and interacting with other components.
+
+Keypad: The keypad is an input device that consists of a set of buttons arranged in a matrix. Users can enter a numeric code by pressing the appropriate buttons.
+
+Servo Motor: The servo motor is used to physically lock and unlock the door. It is a small motor that can rotate with high precision within a specified range.
+
+LCD Display: An optional component, the LCD display can be used to provide visual feedback, such as displaying messages or the current status of the system.
+
+Jumper wires : connection to be made
